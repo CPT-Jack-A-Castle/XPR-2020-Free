@@ -22,6 +22,10 @@ For Example :
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/05/blue-eagle-multi-os-rat.html
 
+# If you like my work, consider buying me a Nescafe coffee Or Energy Drink 🥰 
+
+# Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
+
 [![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
 # Support us please 🥰  
 Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
